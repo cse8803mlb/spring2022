@@ -21,11 +21,11 @@ seo:
 {% assign instructors = site.staffers | sort: 'index' %} {% for staffer in instructors %} {{ staffer }} {% endfor %}
 
 ## Information
-- **Time**: Monday and Wednesday, 12:30pm - 1:45 pm
+- **Time**: Monday and Wednesday, 12:30-1:45 PM
 - **Location**: Klaus 2443
-- **Teaching assistants**:
-  - Hira Anis [(hanis3[at]gatech.edu)](mailto:hanis3@gatech.edu); Office Hours: see Canvas for time and meeting link.
-  - Hechen Li [(hli691[at]gatech.edu>](mailto:hli691@gatech.edu); Office Hours: see Canvas for time and meeting link.
+- **Teaching assistants**: Hira Anis ([hanis3@gatech.edu](mailto:hanis3@gatech.edu)); Hechen Li ([hli691@gatech.edu](mailto:hli691@gatech.edu))
+- **Instructor office hours**: Monday 2:10-3:10 PM (weeks 1-13) or by appointment (weeks 14-16). Meeting link on Canvas.
+- **TA office hours**: TBA.
 
 ## Course description
 
