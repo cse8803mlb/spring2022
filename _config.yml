@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSE8803 MLB
+title: CSE8803/CX4803 MLB
 tagline: Machine Learning for Computational Biology
-description: CSE8803 MLB, Spring 2022
+description: CSE8803/CX4803 MLB, Spring 2022
 author: Yunan Luo
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 # url: http://localhost # 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
