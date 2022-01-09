@@ -11,19 +11,19 @@ Feb 7
     : Xiuwei Zhang
 
 Feb 9
-: Student presentation 1-3
-
-Feb 14
 : Clustering I
     : Xiuwei Zhang
 
-Feb 16
+Feb 14
 : Clustering II
     : Xiuwei Zhang
 
-Feb 21
+Feb 16
 : Clustering III
     : Xiuwei Zhang
+
+Feb 21
+: Student presentation 1-3
 
 Feb 23
 : Student presentation 4-6
