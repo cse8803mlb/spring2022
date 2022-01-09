@@ -16,6 +16,7 @@ Jan 19
 Jan 24
 : HMM & gene/motif finding
     : Xiuwei Zhang
+: **OH**{: .label .label-purple } Hosted by Zhang at 2:10-3:10 PM
 
 Jan 26
 : HMM & Profile HMM
@@ -24,3 +25,4 @@ Jan 26
 Jan 31
 : Deep learning for DNA/protein sequence
     : Yunan Luo
+: **OH**{: .label .label-purple } Hosted by Luo at 2:10-3:10 PM

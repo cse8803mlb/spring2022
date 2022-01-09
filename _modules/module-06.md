@@ -4,6 +4,7 @@ title: Student presentations
 
 Apr 4
 : Student presentation 13-15
+: **OH**{: .label .label-purple } Hosted by Luo at 2:10-3:10 PM
 
 Apr 6
 : Student presentation 16-18

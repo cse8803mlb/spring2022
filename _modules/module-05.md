@@ -9,6 +9,7 @@ Mar 9
 Mar 14
 : Network embeddings
     : Yunan Luo
+: **OH**{: .label .label-purple } Hosted by Luo at 2:10-3:10 PM
 
 Mar 16
 : Student presentation 10-12
@@ -22,6 +23,7 @@ Mar 23
 Mar 28
 : Graphical Models 
     : Yunan Luo
+: **OH**{: .label .label-purple } Hosted by Luo at 2:10-3:10 PM
 
 Mar 30
 : Deep learning for networks (graph neural networks)
