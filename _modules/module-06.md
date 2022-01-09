@@ -9,6 +9,9 @@ Apr 4
 Apr 6
 : Student presentation 16-18
 
+Apr 10
+: **HW5**{: .label .label-red } due by 11:59 PM
+
 Apr 11
 : Student presentation 19-21
 

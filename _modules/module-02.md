@@ -22,6 +22,9 @@ Jan 26
 : HMM & Profile HMM
     : Xiuwei Zhang
 
+Jan 30
+: **HW1**{: .label .label-red } due by 11:59 PM
+
 Jan 31
 : Deep learning for DNA/protein sequence
     : Yunan Luo

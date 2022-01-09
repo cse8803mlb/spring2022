@@ -14,6 +14,9 @@ Mar 14
 Mar 16
 : Student presentation 10-12
 
+Mar 20
+: **HW4**{: .label .label-red } due by 11:59 PM
+
 Mar 21
 : No class (Spring break)
 

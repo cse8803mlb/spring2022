@@ -15,6 +15,9 @@ Feb 9
 : Clustering I
     : Xiuwei Zhang
 
+Feb 13
+: **HW2**{: .label .label-red } due by 11:59 PM
+
 Feb 14
 : Clustering II
     : Xiuwei Zhang
